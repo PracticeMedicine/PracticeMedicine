@@ -1,10 +1,10 @@
 # About me
 Hello, my name is PracticeMedicine, I code for C#
 
-I created projects like
-- [Aridity](https://github.com/PracticeMedicine03/aridity)
-- [Beta Fortress Client](https://github.com/Beta-Fortress-2-Team/BetaFortressClient-Releases)
+i created projects like
+- [The original Fortress Connected downloader utility](https://github.com/Lambdagon/FCDownloader)
+- [Fortress Connected Launcher (canceled)[https://github.com/PracticeMedicine03/FCLauncher)
 
-I am a developer for a couple projects
+and ze aridity team projects
+- [Beta Fortress Client](https://github.com/Beta-Fortress-2-Team/BetaFortressClient-Releases)
 - [Beta Fortress](https://github.com/Beta-Fortress-2-Team/bf)
-- [Early Fortress 2](https://github.com/Daisreich/tf2i)
