@@ -1,11 +1,22 @@
-# About me
-Hello, my name is PracticeMedicine, I code for C++ and C#.
+# hello stalker, welcome to my github profile.
+## about me
+My name is **PracticeMedicine** (which you can obviously see), I usually code in "C++" and "C#". \
+I do "Python", "HTML", "CSS", "JS(X)" and "TS(X)" aswell. \
+I founded and lead the [@AridityTeam](https://github.com/AridityTeam) \
+<sup><sub><sup><sub>Advocate for Linux and FOSS</sub></sup></sub></sup> \
+**Developer (programmer) for Rogue Lambda's Blue Shift 2** \
+**Contributor (programmer) for Kepler's Solo Fortress 2**
 
-i created projects like
-- ~~[The original Fortress Connected downloader utility](https://github.com/Lambdagon/FCDownloader)~~
-- ~~[Fortress Connected Launcher (canceled)](https://github.com/PracticeMedicine03/FCLauncher)~~
-- [Sentry Native integration to Source](https://github.com/PracticeMedicine03/sentry-source-engine)
+## tools that i mainly use and some specs that i currently have
+**OS**: Linux Mint 22.1 \
+**CPU**: AMD Ryzen 5 2600 \
+**MEM**: 8GB DDR4 \
+**GPU**: NVIDIA Geforce GT 1030 \
+**IDE**: JetBrains Rider, JetBrains Fleet, JetBrains WebStorm, JetBrains PyCharm Community Edition and Visual Studio Code \
+**Libraries**: [AridityTeam.Base](https://bitbucket.org/aridity-project-src/aridity-dotnet-libraries) (my creation) & [mini-chromium](https://github.com/getsentry/mini-chromium) (Sentry team's fork) \
+**Some other tools**: Git, neofetch & podman
 
-i work on the following projects
-- [Beta Fortress Client](https://github.com/AridityTeam/BetaFortressClient-Releases)
-- [Beta Fortress](https://github.com/AridityTeam/bf)
+## wanna see my stats?
+![PracticeMedicine's Stats](https://github-readme-stats.vercel.app/api?username=PracticeMedicine&theme=monokai&show_icons=true&hide_border=false&count_private=true) 
+![PracticeMedicine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PracticeMedicine&theme=monokai&show_icons=true&hide_border=false&layout=compact) \
+![PracticeMedicine's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PracticeMedicine&theme=monokai&hide_border=false)
