@@ -8,12 +8,12 @@ I founded and lead the [@AridityTeam](https://github.com/AridityTeam) \
 **Contributor (programmer) for Kepler's Solo Fortress 2**
 
 ## tools that i mainly use and some specs that i currently have
-**OS**: Linux Mint 22.1 \
+**OS**: Manjaro Linux \
 **CPU**: AMD Ryzen 5 2600 \
 **MEM**: 8GB DDR4 \
 **GPU**: NVIDIA Geforce GT 1030 \
 **IDE**: JetBrains Rider, JetBrains Fleet, JetBrains WebStorm, JetBrains PyCharm Community Edition and Visual Studio Code \
-**Libraries**: [AridityTeam.Base](https://bitbucket.org/aridity-project-src/aridity-dotnet-libraries) (my creation) & [mini-chromium](https://github.com/getsentry/mini-chromium) (Sentry team's fork) \
+**Libraries I used mostly or sometimes**: [AridityTeam.Base](https://bitbucket.org/aridity-project-src/aridity-dotnet-libraries) (my creation) & [mini-chromium](https://github.com/getsentry/mini-chromium) (Sentry team's fork) \
 **Some other tools**: Git, neofetch & podman
 
 ## wanna see my stats?
