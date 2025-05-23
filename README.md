@@ -20,3 +20,10 @@ I founded and lead the [@AridityTeam](https://github.com/AridityTeam) \
 ![PracticeMedicine's Stats](https://github-readme-stats.vercel.app/api?username=PracticeMedicine&theme=monokai&show_icons=true&hide_border=false&count_private=true) 
 ![PracticeMedicine's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PracticeMedicine&theme=monokai&show_icons=true&hide_border=false&layout=compact) \
 ![PracticeMedicine's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PracticeMedicine&theme=monokai&hide_border=false)
+
+![C#](https://img.shields.io/badge/c%23-%2523239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![.NET my beloved!](https://img.shields.io/badge/.NET_my_beloved!-5C2D91?style=flat&logo=.net&logoColor=white)
+
+![C++ my beloved!](https://img.shields.io/badge/C%2B%2B_my_beloved!-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![CMake my beloved!](https://img.shields.io/badge/CMake_my_beloved!-064F8C?style=flat&logo=cmake&logoColor=white)
+
